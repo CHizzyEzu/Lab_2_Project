@@ -5,11 +5,11 @@ using namespace std;
 
 int main()
 {
-    double mph, hours, distance;
+    double km, hours, distance;
     
     // Avg Rate of Speed of Vehicle
     cout << "How fast are you going on Average (Km)? ";
-    cin >> mph;
+    cin >> km;
 
     //Distance from destination
     cout << "How far are you from your destination (Kilometers)? ";
