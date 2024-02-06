@@ -8,11 +8,11 @@ int main()
     double mph, hours, distance;
     
     // Avg Rate of Speed of Vehicle
-    cout << "How fast are you going on Average? ";
+    cout << "How fast are you going on Average (mph)? ";
     cin >> mph;
 
     //Distance from destination
-    cout << "How far are you from your destination? ";
+    cout << "How far are you from your destination (mi)? ";
     cin >> distance;
 
     // Calculate Avg Time to destination
