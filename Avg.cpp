@@ -12,7 +12,7 @@ int main()
     cin >> mph;
 
     //Distance from destination
-    cout << "How far are you from your destination (mi)? ";
+    cout << "How far are you from your destination (miles)? ";
     cin >> distance;
 
     // Calculate Avg Time to destination
